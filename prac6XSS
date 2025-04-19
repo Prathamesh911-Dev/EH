@@ -1,0 +1,6 @@
+ Navigate to the "XSS Stored" section in DVWA
+
+ 1. Name: test
+  <script>alert("This is XSS Exploit test")</script> 
+
+  click on button “sign the Guestbook” 

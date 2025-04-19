@@ -1,0 +1,12 @@
+For Ubuntu
+
+ifconfig
+ping google.com
+netstat
+traceroute google.com 
+
+for windows
+ipconfig
+ping google.com
+netstat
+tracert google.com
