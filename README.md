@@ -74,5 +74,5 @@ Each module is designed to teach offensive and defensive techniques **only in a 
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/ethical-hacking-practicals.git
-   cd ethical-hacking-practicals
+   git clone https://github.com/Prathamesh911-Dev/EH.git
+   cd EH
